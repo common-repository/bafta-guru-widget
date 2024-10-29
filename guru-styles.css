@@ -1,0 +1,33 @@
+body #bafta-guru-widget {
+    width:100%;
+    background:#000 url(skins/bafta/bafta-guru-wp-widget-logo.jpg) no-repeat;
+    padding:0;
+    margin:0;
+    border:0;
+}
+body #bafta-guru-widget-header {height:125px;}
+body #bafta-guru-widget-header h2 {text-indent:-9999px; margin:0; padding:0;}
+body #bafta-guru-widget-header p {text-indent:-9999px; margin:0; padding:0;}
+body #bafta-guru-widget p a {
+    font-size:0.9em !important;
+    text-decoration: none;
+    display: inline-block;
+
+}
+body #bafta-guru-widget p {line-height: 1.2em !important;}
+body #bafta-guru-widget #mycarousel {padding:0;}
+body #bafta-guru-widget #mycarousel ul {margin:0 !important; padding:0 !important;}
+body #bafta-guru-widget #mycarousel ul li {width:100px; float:left; border:0; text-align:left; margin-right:15px; padding-bottom:5px;background:transparent; height: 102px; overflow: hidden;}
+body #bafta-guru-widget #mycarousel span.compression-break {color:#ccc;font-weight:bold;}
+body #bafta-guru-widget #mycarousel {clear:both;}
+body #bafta-guru-widget h3, 
+body #bafta-guru-widget h4, 
+body #bafta-guru-widget h5, 
+body #bafta-guru-widget p, 
+body #bafta-guru-widget li, 
+body #bafta-guru-widget a  {font-family: Verdana, Arial, Helvetica, sans-serif !important; padding:0; margin:0; text-align:left;}
+body #bafta-guru-widget a, #bafta-guru-widget p {color:#fff;font-weight:bold;}
+body #bafta-guru-widget a:hover {color:#fff; text-decoration:underline;font-weight:bold;}
+body #bafta-guru-widget p#guru-more-info {padding:0 10px 15px 10px;}
+body #bafta-guru-widget p#guru-more-info a {font-weight:normal;}
+body #bafta-guru-widget p#guru-more-info a:hover {font-weight:normal;}
